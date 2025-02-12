@@ -5,7 +5,7 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
 
-      <h1>retteqquyte</h1>
+     
     </nav>
 
     <!-- Render the views based on the route -->

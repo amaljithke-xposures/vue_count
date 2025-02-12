@@ -5,7 +5,7 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
 
-     
+  <H1>COUNT THE NUMBER</H1>
     </nav>
 
     <!-- Render the views based on the route -->
